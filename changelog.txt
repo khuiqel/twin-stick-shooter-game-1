@@ -1,8 +1,12 @@
+2.1
+* compressed images
+
 2.0
 * cross-platform
 * fixed the horrible performance and input lag (was mistakenly forcing a wait+redraw every frame)
+* display upgrade values
 
 1.0
 * initial stuff: basic movement/controls, basic enemies, basic score and upgrades, basic background
 
-GitHub: https://github.com/tanksdude/twin-stick-shooter-game-1
+GitHub: https://github.com/khuiqel/twin-stick-shooter-game-1

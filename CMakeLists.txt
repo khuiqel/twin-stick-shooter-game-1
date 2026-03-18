@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.16)
-project(twin-stick-shooter-game-1 VERSION 1.0)
+cmake_minimum_required(VERSION 3.16...3.31)
+project(twin-stick-shooter-game-1)
 
 if(CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
 	#nothing
